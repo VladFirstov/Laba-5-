@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(27,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "__int64"
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(27,11): message : рекомендуется использовать "%lld" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(27,11): message : рекомендуется использовать "%Id" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(27,11): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(33,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "__int64"
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(33,11): message : рекомендуется использовать "%lld" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(33,11): message : рекомендуется использовать "%Id" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(33,11): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\studi\paralel\5\openMpDemoCPP-master\openMpDemo\Source.cpp(47,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  openMpDemo.vcxproj -> D:\studi\paralel\5\openMpDemoCPP-master\x64\Debug\openMpDemo.exe
